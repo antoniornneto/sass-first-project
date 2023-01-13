@@ -1,6 +1,6 @@
 # sass-first-project
 
-First project building with SASS.
+First project building with SASS and SCSS.
 
 ![image](https://user-images.githubusercontent.com/109702318/212414079-85d811d8-26f1-4c01-977b-58a852290b1c.png)
 ![image](https://user-images.githubusercontent.com/109702318/212414098-e8961802-cd98-4445-8bb6-8b6cf52eec0f.png)
